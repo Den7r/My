@@ -1,0 +1,53 @@
+*{
+    margin:0;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    width:100%;
+    font-size:50px;
+    font-weight:200;
+    font-family: 'Impact';
+}
+header{
+    background-color:#711313;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    height:200px;
+
+}
+.banner{
+    display: flex ;
+    justify-content: center;
+}
+footer{
+    display: flex ;
+    justify-content: center;
+}
+article{
+    display: flex;
+    justify-content:space-around;
+}
+.Playerok{
+    width:50%;
+    font-size:50px;
+    font-weight:200; 
+     color: white;
+    font-family: 'Algerian'; 
+}
+.razryv{
+    height:500px;
+}
+main{
+    background-color: gray;
+}
+a{
+    color: white;
+}
+p{
+    font-size: 60px;
+}
+
